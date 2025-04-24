@@ -1,0 +1,2 @@
+# moyenne-C
+etudiant manger
